@@ -32,3 +32,5 @@ async def wait_functions():
     await delay("D", 1)
 
 asyncio.run(wait_functions())
+
+
